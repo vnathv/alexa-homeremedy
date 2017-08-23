@@ -1,0 +1,22 @@
+﻿{
+  "intents": [
+    {
+      "slots": [
+        {
+          "name": "problem",
+          "type": "problem"
+        }
+      ],
+      "intent": "RemedyIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    }
+  ]
+}

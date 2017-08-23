@@ -1,0 +1,15 @@
+﻿RemedyIntent for {problem}
+RemedyIntent {problem}
+RemedyIntent what is the home remedy for {problem}
+RemedyIntent home remedy for {problem}
+RemedyIntent remedy for {problem}
+RemedyIntent to {problem}
+AMAZON.StopIntent stop
+AMAZON.StopIntent stop please
+AMAZON.CancelIntent cancel
+AMAZON.CancelIntent cancel please
+AMAZON.HelpIntent help
+AMAZON.HelpIntent help please
+AMAZON.HelpIntent help needed
+AMAZON.HelpIntent will you help me
+AMAZON.HelpIntent help required
